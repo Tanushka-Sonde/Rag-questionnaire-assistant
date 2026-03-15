@@ -65,28 +65,28 @@ Navigate to **http://localhost:8501**
 - Then switch to **Log In** tab and log in
 
 **Step 2 — Index Reference Documents**
-- Click **📚 Reference Docs** in the sidebar
-- Click **⚡ Load Default Docs** to index the 6 bundled StreamHive documents
+- Click **Reference Docs** in the sidebar
+- Click **Load Default Docs** to index the 6 bundled StreamHive documents
 - Or upload your own `.txt` / `.pdf` files
 
 **Step 3 — Create a Run**
-- Click **📄 New Run** in the sidebar
+- Click **New Run** in the sidebar
 - Give your run a name
 - Upload `questionnaire.csv` (or any `.csv` / `.txt` questionnaire)
-- Click **🚀 Create Run & Generate Answers**
+- Click **Create Run & Generate Answers**
 - Wait ~10–20 seconds for AI to process all questions
 
 **Step 4 — Review Answers**
 - All 14 answers appear on screen with citations and evidence snippets
 - A coverage summary shows: Total / Answered / Not Found
-- Click **✏️ Edit Answer** on any card to modify an answer before export
+- Click **Edit Answer** on any card to modify an answer before export
 
 **Step 5 — Export**
-- Click **📥 Download Answers as .docx**
+- Click **Download Answers as .docx**
 - The exported file preserves original question order with answers and citations below each question
 
 **Step 6 — View Past Runs**
-- Click **📋 My Runs** to see all previous runs
+- Click **My Runs** to see all previous runs
 - Re-view, re-edit, or re-export any past run
 
 ---
