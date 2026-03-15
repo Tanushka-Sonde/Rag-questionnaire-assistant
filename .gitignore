@@ -1,0 +1,6 @@
+questionnaire.db
+uploads/
+exports/
+__pycache__/
+*.pyc
+.env
