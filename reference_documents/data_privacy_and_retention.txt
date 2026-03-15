@@ -1,0 +1,9 @@
+Data Privacy and Retention Policy
+
+StreamHive collects limited personal information necessary for account creation and service delivery. This includes user email address, subscription details, and viewing preferences.
+
+User viewing history and activity data are retained for up to 24 months to support recommendation systems and improve content discovery.
+
+If a user account is deleted, associated personal data is removed or anonymized within 30 days, unless retention is required for legal or regulatory obligations.
+
+StreamHive does not sell personal user data to third parties and applies strict privacy protection standards for all stored user information.

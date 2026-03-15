@@ -1,0 +1,9 @@
+Compliance and Security Audits
+
+StreamHive follows industry security best practices and aligns its internal policies with common compliance frameworks such as SOC 2 and ISO 27001 principles.
+
+The company performs regular internal security reviews and annual third-party security audits to evaluate infrastructure security and operational practices.
+
+Automated vulnerability scans are conducted on a quarterly basis, and critical findings are prioritized for remediation.
+
+Security audit reports and compliance documentation are maintained internally and reviewed by the security and engineering teams.

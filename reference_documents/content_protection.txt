@@ -1,0 +1,9 @@
+Content Protection and Digital Rights Management
+
+StreamHive protects copyrighted media content using industry-standard Digital Rights Management (DRM) technologies.
+
+Video streams are encrypted and delivered using secure streaming protocols to prevent unauthorized downloads.
+
+The platform also implements tokenized streaming URLs and session validation mechanisms to ensure that only authenticated users with valid subscriptions can access media content.
+
+Content distribution is monitored to detect abnormal streaming behavior that may indicate unauthorized content redistribution.

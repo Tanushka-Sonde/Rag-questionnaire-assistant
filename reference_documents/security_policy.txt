@@ -1,0 +1,11 @@
+StreamHive Security Policy
+
+StreamHive applies strong encryption practices to protect user and platform data. All sensitive data stored within StreamHive systems is encrypted at rest using AES-256 encryption.
+
+Data transmitted between clients and StreamHive services is encrypted in transit using TLS 1.2 or higher.
+
+Access to internal systems is restricted using role-based access control (RBAC). Administrative accounts require additional security measures including multi-factor authentication.
+
+Security monitoring tools continuously analyze system logs and network activity to detect suspicious behavior or potential threats.
+
+Regular vulnerability scans are conducted to identify and resolve security risks within the infrastructure.

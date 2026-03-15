@@ -1,0 +1,9 @@
+StreamHive Infrastructure Overview
+
+StreamHive is hosted primarily on Amazon Web Services (AWS). Core services including application servers, databases, and media processing pipelines run within AWS regions located in North America and Europe.
+
+To improve global performance and reliability, StreamHive uses a multi-region architecture with failover capabilities. Critical services are replicated across multiple availability zones to prevent downtime in case of infrastructure failures.
+
+Video content is delivered using a global Content Delivery Network (CDN) powered by AWS CloudFront. Edge caching allows video content to be streamed with minimal latency to users worldwide.
+
+StreamHive infrastructure is monitored continuously using automated monitoring and alerting systems that track server health, traffic patterns, and service availability.

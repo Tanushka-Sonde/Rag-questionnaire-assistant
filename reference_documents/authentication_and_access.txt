@@ -1,0 +1,9 @@
+Authentication and Access Management
+
+StreamHive supports multiple authentication methods for users including email and password login, OAuth-based social login, and enterprise single sign-on (SSO) integrations.
+
+Administrator and internal staff accounts are required to use multi-factor authentication (MFA) for accessing internal dashboards and infrastructure management systems.
+
+Passwords are securely stored using bcrypt hashing with salted hashes to prevent unauthorized recovery.
+
+Access permissions across the platform are managed through role-based access control, ensuring that users and administrators only have access to resources necessary for their role.
